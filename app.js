@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     displayRandomGif();
 });
+//testing
 
 const gifUrls = [
     'https://gifdb.com/images/high/uhm-so-dog-8r6i34311802hy8f.gif',
